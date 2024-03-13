@@ -1,0 +1,6 @@
+void printSize(int *array);
+
+#ifndef LABA5_LIBRARY_DYN_POLYANOCHKA_H
+#define LABA5_LIBRARY_DYN_POLYANOCHKA_H
+
+#endif //LABA5_LIBRARY_DYN_POLYANOCHKA_H
