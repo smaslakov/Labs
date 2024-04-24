@@ -1,7 +1,6 @@
 
 #ifndef TASK4_ITERATOR_H
 #define TASK4_ITERATOR_H
-#include <vector>
 template<typename T>
 class Iterator{
     T* ptr;
