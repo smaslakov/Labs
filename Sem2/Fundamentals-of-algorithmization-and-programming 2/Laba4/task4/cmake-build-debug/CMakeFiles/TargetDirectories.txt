@@ -1,3 +1,0 @@
-/Users/sagot/Documents/LabsGit/Sem2/Fundamentals-of-algorithmization-and-programming 2/Laba4/task4/cmake-build-debug/CMakeFiles/task4.dir
-/Users/sagot/Documents/LabsGit/Sem2/Fundamentals-of-algorithmization-and-programming 2/Laba4/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/sagot/Documents/LabsGit/Sem2/Fundamentals-of-algorithmization-and-programming 2/Laba4/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
